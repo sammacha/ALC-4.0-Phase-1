@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">ALC Phase 1</string>
+    <string name="about_alc">About Alc</string>
+    <string name="profile">my profile</string>
+    <string name="welcome">Welcome to ALC 4.0</string>
+    <string name="Track">Track:</string>
+    <string name="country">Country:</string>
+    <string name="email">Email:</string>
+    <string name="phone">Phone Number:</string>
+    <string name="slack">Slack UserName:</string>
+    <string name="Android">Android</string>
+    <string name="Kenya">Kenya</string>
+    <string name="address">samuelnzuki061@gmail.com</string>
+    <string name="phoneno">0714446407</string>
+    <string name="slack_handle">\@Macha</string>
+    <string name="name">Samuel Masaku</string>
+</resources>
